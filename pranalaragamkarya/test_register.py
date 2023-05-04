@@ -33,7 +33,7 @@ def test_registerValid():
 
 
 # testcase 2 invalid user (email salah, password salah, )
-Kunci = [ ('jeje', 'jarwati', 'jeje.jarwati#gmail.com', 'Dicob@1ni', 'PT. Pranala ragam karya', '82144393990', 'Indonesia', 'Jawa Timur')
+Kunci = [ ('jeje', 'jarwati', 'jeje.jarwati#gmail.com', 'Dicob@1ni', 'PT. Pranala ragam karya', '82144393990', 'Indonesia', 'Jawa Timur'),
     ('jeje', 'jarwati', 'jeje.jarwati#gmail.com', 'Dicob@1ni1', 'PT. Pranala ragam karya', '82144393990', 'Indonesia', 'Jawa Timur')
     
 ]
